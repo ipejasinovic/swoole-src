@@ -298,6 +298,7 @@ static std::unordered_map<std::string, std::string> map_(
      {"shtml", "text/html"},
      {"jade", "text/jade"},
      {"jsx", "text/jsx"},
+     {"jsp", "text/html"},
      {"less", "text/less"},
      {"markdown", "text/markdown"},
      {"md", "text/markdown"},
